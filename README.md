@@ -1,4 +1,4 @@
-# smart_home_dataset
+# smart home dataset
 
 Dataset for Smart Home Appliances:
 
