@@ -9,8 +9,8 @@ Dataset for Smart Home Appliances:
 •	Line Voltage: The voltage level in the electrical line.
 •	Voltage: The voltage level at the specific location.
 •	Apparent Power: The combination of real and reactive power in the electrical system.
-5.	Energy Consumption (kWh): Represents the amount of energy consumed, generated randomly within a specified range.
-6.	Timestamp Components (Month, Day of the Week, and Hour of the Day): Derived from the Unix timestamp, these components provide temporal information.
+5.	Energy Consumption (kWh): Represents the energy consumed, generated randomly within a specified range.
+6.	Bandwidth (kbps): Bandwidth in a smart home system refers to the capacity or speed at which data can be transmitted between devices. It is crucial in facilitating smooth communication, enabling seamless control, monitoring, and automation of various home functions.
 7.	Offloading Decision: Randomly selects between 'Local' and 'Remote' to simulate decision-making for offloading computational tasks.
 
 
